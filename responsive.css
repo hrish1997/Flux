@@ -1,0 +1,988 @@
+@media (max-width: 1280px) {
+  .secondary {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+    font-size: 1.5vw;
+    padding: 2.5% 10%;
+  }
+  #section-1 > #imgg-bx-1 > #left-div {
+    position: absolute;
+    z-index: 1;
+    bottom: 15%;
+    left: 10%;
+    /* border: 1px solid red; */
+    /* margin-left: 120px; */
+  }
+  #section-1 > #imgg-bx-1 > #left-div h1 {
+    color: white;
+    font-size: 4.5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 15px;
+  }
+  #section-1 > #imgg-bx-1 > #left-div h1 span i {
+    font-family: "Courgette", cursive;
+  }
+  #section-1 > #imgg-bx-1 > #left-div p {
+    color: white;
+    font-weight: 500;
+    line-height: 120%;
+    margin-bottom: 3%;
+    font-size: 1.1vw;
+  }
+  #order-today-btn {
+    margin-top: 10%;
+  }
+  /* -------------------------------------------------------------------------------------------- */
+  .third {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: #b2b8a3;
+    font-size: 1.5vw;
+    padding: 2.5% 10%;
+  }
+  #section-2 > #left-div {
+    width: 30%;
+  }
+  #section-2 > #left-div > h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-2 > #left-div > p {
+    color: black;
+    font-weight: 500;
+    font-size: 1.1vw;
+    margin-bottom: 15px;
+  }
+  #section-2 > #buy-now-btn {
+    margin-top: 40px;
+  }
+  #section-2 > #right-div {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #section-2 > #right-div > #image-box {
+    width: 70%;
+    height: 90%;
+    background-color: #faf6f0;
+  }
+  #section-2 #right-div #color-btn #gray-btn h6,
+  #section-2 #right-div #color-btn #black-btn h6 {
+    font-size: 1.5vw;
+    font-weight: 500;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #section-3 h1 {
+    color: black;
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-3 #card-box {
+    margin-top: 10px;
+    width: 90%;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  .fourth {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+    font-size: 1.2vw;
+    padding: 2% 8%;
+  }
+  #section-5 h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-5 p {
+    color: black;
+    font-weight: 500;
+    font-size: 1.2vw;
+    margin-bottom: 15px;
+  }
+  /* -------------------------------------------------------------------------------------------- */
+  .fifth {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+    font-size: 1.8vw;
+    padding: 1.8% 8%;
+  }
+  #section-6 h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-6 #left-div {
+    width: 35%;
+    text-align: left;
+  }
+  #number-box h6 {
+    font-size: 1.5vw;
+    font-weight: 300;
+  }
+  #details-box h3 {
+    font-size: 2.5vw;
+    font-weight: 400;
+  }
+  #details-box p {
+    font-size: 1.2vw;
+    margin-top: 10px;
+  }
+  #section-6 #right-div {
+    width: 45%;
+    /* border: 1px solid red; */
+  }
+  /* ----------------------------------------------------------------------------------- */
+
+  #section-7 h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-7 p {
+    margin-top: 2px;
+    font-size: 1.3vw;
+  }
+  #slider {
+    margin-top: 50px;
+    width: 70%;
+    height: 350px;
+    /* border: 1px solid red; */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #slider i {
+    font-size: 2.5vw;
+  }
+  /* ------------------------------------------------------------------------------------------ */
+  .sixth {
+    border-radius: 50px;
+    border: 1px solid black;
+    color: black;
+    background-color: transparent;
+    font-size: 18px;
+    padding: 2.5% 10%;
+  }
+
+  #section-8 {
+    width: 100%;
+    height: auto;
+    padding-block: 3%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  #section-8 #main h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #left h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #right-details > p {
+    font-size: 1.3vw;
+  }
+  /* ----------------------------------------------------------------------------------------- */
+  #section-10 {
+    width: 100%;
+    height: auto;
+    padding-block: 5%;
+    background-color: white;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  #card h3 {
+    font-size: 2vw;
+    font-weight: 400;
+    width: 80%;
+    margin-top: 10px;
+  }
+  /* -------------------------------------------------------------------------------------------- */
+  #section-11 #left-div h1 {
+    color: white;
+    font-size: 4vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-11 #left-div p {
+    color: white;
+    font-weight: 500;
+    font-size: 1.2vw;
+    margin-bottom: 15px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #footer #left-section {
+    width: 30%;
+    /* border: 1px solid red; */
+  }
+  #footer #left-section a img {
+    width: 180px;
+  }
+  #footer #left-section p {
+    font-size: 1vw;
+    margin-top: 30px;
+  }
+  #footer #left-section #input-box {
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+    width: 70%;
+    display: flex;
+    align-items: center;
+  }
+  #footer #left-section #input-box input {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    /* border-bottom: 1px solid black; */
+  }
+  #footer #left-section #input-box i {
+    font-size: 1.8vw;
+    /* border-bottom: 1px solid black; */
+  }
+  #footer #right-section {
+    width: 45%;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 20px;
+  }
+  #footer #right-section #box {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+@media (max-width: 1024px) {
+  .container {
+    padding-inline: 2%;
+  }
+  #navbar i {
+    display: block;
+  }
+  #navbar {
+    position: relative;
+    position: fixed;
+    padding-block: 15px;
+    width: 100%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+  }
+  #navbar i {
+    position: absolute;
+    left: 2%;
+    color: white;
+    cursor: pointer;
+    font-size: 3vw;
+  }
+  #navbar a img {
+    position: absolute;
+    width: 130px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  #links {
+    background-color: #b2b8a3;
+    /* display: none; */
+    flex-direction: column;
+    gap: 40px;
+    position: absolute;
+    top: 100%;
+    left: -200%;
+    padding: 2% 5%;
+    transition: all 0.3s ease-in;
+  }
+  #links.active {
+    left: 0;
+  }
+  #button {
+    position: absolute;
+    right: 5%;
+  }
+  /* ------------------------------------------------------------------------------- */
+  #section-1 > #imgg-bx-1 > #left-div {
+    position: absolute;
+    z-index: 1;
+    bottom: 15%;
+    left: 10%;
+    /* border: 1px solid red; */
+    /* margin-left: 120px; */
+  }
+  #section-1 > #imgg-bx-1 > #left-div h1 {
+    color: white;
+    font-size: 4.5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 15px;
+  }
+
+  #section-1 > #imgg-bx-1 > #left-div p {
+    color: white;
+    font-weight: 500;
+    line-height: 120%;
+    margin-bottom: 3%;
+    font-size: 1.1vw;
+  }
+  /* --------------------------------------------------------------------------------- */
+  .third {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: #b2b8a3;
+    font-size: 1.8vw;
+    padding: 3% 12%;
+  }
+  #section-2 > #left-div {
+    width: 30%;
+  }
+  #section-2 > #left-div > h1 {
+    color: black;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-2 > #left-div > p {
+    color: black;
+    font-weight: 500;
+    font-size: 1.1vw;
+    margin-bottom: 15px;
+  }
+  #section-2 > #buy-now-btn {
+    margin-top: 40px;
+  }
+  #section-2 > #right-div {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #section-2 > #right-div > #image-box {
+    width: 70%;
+    height: 90%;
+    background-color: #faf6f0;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #section-3 #card-box #card {
+    width: 350px;
+    height: 250px;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-inline: 20px;
+  }
+  #section-3 #card-box #card h3 {
+    font-size: 2vw;
+    margin-top: 20px;
+  }
+  #section-3 #card-box #card p {
+    font-size: 1.5vw;
+    margin-top: 10px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #card #img-bx-1,
+  #card #img-bx-2 {
+    width: 100%;
+    height: 25vh;
+    /* border: 1px solid red; */
+    border-radius: 20px 20px 100px 20px;
+  }
+
+  /* ---------------------------------------------------------------------------------- */
+  .seventh {
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    border: none;
+    color: black;
+    background-color: white;
+    font-size: 1.8vw;
+    padding: 3% 15%;
+  }
+  #footer {
+    padding-block: 10%;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    padding-inline: 2%;
+  }
+
+  /* ------------------------------------------------------------------------------- */
+  #section-1 > #imgg-bx-1 > #left-div {
+    position: absolute;
+    z-index: 1;
+    bottom: 15%;
+    left: 5%;
+    /* border: 1px solid red; */
+    /* margin-left: 120px; */
+  }
+
+  #section-1 > #imgg-bx-1 > #left-div p {
+    color: white;
+    font-weight: 500;
+    line-height: 120%;
+    margin-bottom: 3%;
+    font-size: 1.4vw;
+  }
+  #order-today-btn {
+    margin-top: 8%;
+  }
+  /* --------------------------------------------------------------------------------- */
+  .third {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: #b2b8a3;
+    font-size: 1.8vw;
+    padding: 4% 12%;
+  }
+  #section-2 {
+    gap: 7%;
+  }
+  #section-2 > #left-div {
+    width: 30%;
+  }
+  #section-2 > #left-div > h1 {
+    color: black;
+    font-size: 5.5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-2 > #left-div > p {
+    color: black;
+    font-weight: 500;
+    font-size: 1.3vw;
+    margin-bottom: 15px;
+  }
+  #section-2 > #buy-now-btn {
+    margin-top: 40px;
+  }
+  #section-2 > #right-div {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #section-2 > #right-div > #image-box {
+    width: 70%;
+    height: 90%;
+    background-color: #faf6f0;
+  }
+
+  /* ------------------------------------------------------------------------------------------- */
+  #section-3 {
+    padding-block: 10%;
+  }
+  #section-3 > h1 {
+    font-size: 8vw;
+  }
+  #section-3 #card-box #card {
+    width: 350px;
+    height: 250px;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-inline: 20px;
+  }
+  #section-3 #card-box #card h3 {
+    font-size: 4vw;
+    margin-top: 20px;
+  }
+  #section-3 #card-box #card p {
+    font-size: 2vw;
+    margin-top: 10px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  .fourth {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+    font-size: 2vw;
+    padding: 2% 8%;
+  }
+  #section-5 p {
+    color: black;
+    font-weight: 500;
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #section-7 {
+    padding-block: 8%;
+  }
+  #section-7 p {
+    margin-top: 2px;
+    font-size: 1.3vw;
+  }
+  #slider {
+    margin-top: 0px;
+  }
+  .slide {
+    width: 90%;
+    height: 70%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+  }
+  #section-7 button {
+    margin-top: 0px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #section-7 h1 {
+    color: black;
+    font-size: 5.5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  /* ------------------------------------------------------------------------------------------- */
+  #card #img-bx-1,
+  #card #img-bx-2 {
+    width: 100%;
+    height: 25vh;
+    /* border: 1px solid red; */
+    border-radius: 20px 20px 100px 20px;
+  }
+
+  /* ---------------------------------------------------------------------------------- */
+  .seventh {
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    border: none;
+    color: black;
+    background-color: white;
+    font-size: 1.8vw;
+    padding: 3% 15%;
+  }
+  #footer #right-section #box a {
+    color: black;
+    font-size: 1.8vw;
+  }
+}
+@media (max-width: 640px) {
+  #section-1,
+  #section-2,
+  #section-3,
+  #section-5,
+  #section-6,
+  #section-7,
+  #section-8,
+  #section-10,
+  #section-11 {
+    padding-inline: 5%;
+  }
+
+  .primary {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    font-size: 3vw;
+    padding: 1.5vw 3vw;
+  }
+  /* ---------------------- ------------------------------------------------------------ */
+  #navbar i {
+    display: block;
+    font-size: 4.5vw;
+  }
+  /* ---------------------- ------------------------------------------------------------ */
+
+  .third {
+    border-radius: 50px;
+    border: 1px solid white;
+    color: white;
+    background-color: #b2b8a3;
+    font-size: 2vw;
+    padding: 2.5% 10%;
+    margin-top: 3%;
+  }
+  #section-2 {
+    width: 100%;
+    height: auto;
+    padding: 10% 5%;
+    background-color: #faf6f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #section-2 > #left-div {
+    width: 70%;
+    text-align: center;
+  }
+  #section-2 > #left-div > p {
+    color: black;
+    font-weight: 500;
+    font-size: 1.9vw;
+    margin-bottom: 5%;
+  }
+  #section-2 > #right-div {
+    width: 80%;
+  }
+  #section-2 > #right-div {
+    margin-top: 5%;
+  }
+  #section-2 > #right-div > #color-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2%;
+    border: 1px solid #b2b8a3;
+    border-radius: 50px;
+    padding: 1px;
+    margin-top: 5%;
+  }
+  #section-2 > #right-div > #color-btn > #gray-btn,
+  #section-2 > #right-div > #color-btn > #black-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2vw 5vw;
+    border-radius: 50px;
+    gap: 5%;
+    cursor: pointer;
+  }
+  #section-2 #right-div #color-btn #gray-btn h6,
+  #section-2 #right-div #color-btn #black-btn h6 {
+    font-size: 2.5vw;
+    font-weight: 500;
+  }
+  #section-2 #right-div #color-btn #gray-btn i,
+  #section-2 #right-div #color-btn #black-btn i {
+    border: 3px solid white;
+    border-radius: 50px;
+    padding-left: 1px;
+  }
+  /* ---------------------------------------------------------------------------------- */
+  #section-3 #card-box #card h3 {
+    font-size: 4vw;
+    margin-top: 20px;
+  }
+  #section-3 #card-box #card p {
+    font-size: 2.5vw;
+    margin-top: 10px;
+  }
+  /* ---------------------------------------------------------------------------------- */
+  #section-5 {
+    padding-block: 5%;
+  }
+
+  #section-5 p {
+    color: black;
+    font-weight: 500;
+    font-size: 3vw;
+    margin-bottom: 15px;
+    margin-top: 8%;
+  }
+  #grid-box {
+    max-width: 1200px;
+    /* border: 1px solid red; */
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 5px;
+    padding-inline: 2%;
+  }
+  .col {
+    width: 70%;
+    /* border: 1px solid red; */
+  }
+
+  #col-1 {
+    grid-area: 1/1/2/3;
+  }
+  #col-2 {
+    grid-area: 2/1/3/3;
+  }
+  #col-3 {
+    grid-area: 3/1/4/3;
+  }
+  #col-3 > #image-box img {
+    width: 100%;
+  }
+  #col-4 {
+    grid-area: 4/1/5/3;
+  }
+  #col-5 {
+    grid-area: 5/1/6/3;
+  }
+  #col-6 {
+    width: 70%;
+    grid-area: 6/1/7/3;
+  }
+  /* ---------------------------------------------------------------------------------- */
+  #section-6 {
+    width: 100%;
+    height: auto;
+    background-color: #d4e7ed;
+    padding-block: 10%;
+    text-align: center;
+  }
+  #main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+  }
+  .box {
+    display: flex;
+    gap: 25px;
+    border-bottom: 1px solid gray;
+    padding-block: 5%;
+    cursor: pointer;
+  }
+  #section-6 #left-div {
+    width: 70%;
+    text-align: left;
+  }
+  #number-box h6 {
+    font-size: 3vw;
+    font-weight: 300;
+  }
+  #details-box h3 {
+    font-size: 4.5vw;
+    font-weight: 400;
+  }
+  #details-box p {
+    font-size: 2.5vw;
+    margin-top: 10px;
+  }
+  #section-6 #right-div {
+    width: 70%;
+    /* border: 1px solid red; */
+  }
+  /* ---------------------------------------------------------------------------------- */
+  #section-7 {
+    padding-inline: 5%;
+  }
+  #section-7 p {
+    margin-top: 2px;
+    font-size: 2vw;
+  }
+  .slide {
+    width: 90%;
+    height: 60%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+  }
+  /* ---------------------------------------------------------------------------------- */
+  .sixth {
+    border-radius: 50px;
+    border: 1px solid black;
+    color: black;
+    background-color: transparent;
+    font-size: 2.2vw;
+    padding: 2.5% 10%;
+  }
+  #right-details > p {
+    font-size: 2vw;
+  }
+
+  #award-1,
+  #award-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40vw;
+    height: 60vh;
+    /* border: 1px solid red; */
+    gap: 20px;
+  }
+  /* ------------------------------------------------------------------------------------ */
+  #section-10 {
+    text-align: center;
+  }
+  #press-card-box {
+    width: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
+  }
+  #card {
+    width: 80%;
+  }
+  #card #img-bx-1,
+  #card #img-bx-2 {
+    width: 100%;
+    height: 300px;
+    /* border: 1px solid red; */
+    border-radius: 20px 20px 100px 20px;
+  }
+  /* ----------- ------------------------------------------------------------------------- */
+  #section-11 {
+    width: 100%;
+    height: auto;
+    padding-block: 8%;
+    background-color: #faf6f0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(./Images/img-12.webp);
+    background-position: center;
+    background-size: cover;
+  }
+
+  #section-11 #left-div {
+    width: 50%;
+    margin-left: 5%;
+  }
+  #section-11 #left-div h1 {
+    color: white;
+    font-size: 5vw;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 20px;
+  }
+  #section-11 #left-div p {
+    color: white;
+    font-weight: 500;
+    font-size: 2vw;
+    margin-bottom: 15px;
+  }
+  #section-11 #buy-now-btn {
+    margin-top: 5%;
+  }
+  /* ----------- ------------------------------------------------------------------------- */
+  #footer {
+    width: 100%;
+    height: auto;
+    padding-block: 5%;
+    background-color: #f4dab2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #footer #left-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 80%;
+    /* border: 1px solid red; */
+  }
+  #footer #left-section p {
+    font-size: 3vw;
+    margin-top: 30px;
+  }
+  #footer #left-section #input-box {
+    margin-top: 5%;
+    border-bottom: 1px solid black;
+    width: 70%;
+    display: flex;
+    align-items: center;
+  }
+
+  #footer #left-section #input-box input {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    /* border-bottom: 1px solid black; */
+  }
+  #footer #left-section #input-box i {
+    font-size: 3vw;
+    /* border-bottom: 1px solid black; */
+  }
+  #footer #right-section {
+    text-align: center;
+    margin-top: 7%;
+    width: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    padding-inline: 1%;
+    gap: 20px;
+  }
+  #footer #right-section #box {
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  #footer #right-section #box a {
+    color: black;
+    font-size: 3vw;
+  }
+
+  /* ----------------------------------------------------------------------------------- */
+
+  #last-section > #left-side > p {
+    font-size: 2.5vw;
+  }
+  #last-section > #right-side > p {
+    font-size: 2.5vw;
+  }
+}
